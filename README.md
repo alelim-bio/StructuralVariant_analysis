@@ -1,2 +1,2 @@
-# StructuralVariant_analysis
+# Structural Variant Analysis
 Insights, thoughts, and examples for structural variant analysis.
